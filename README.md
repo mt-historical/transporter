@@ -6,6 +6,9 @@ This mod adds a technic-powered, highly configurable transporter.
 * default
 * technic
 
+Recommended:
+* Craftguide
+
 #### Usage
 * Simply connect the transporter to a technic power network.  
 
@@ -24,6 +27,7 @@ and two-way modifier (if the portal is two-way, twice as much energy is used).
 * You can save bookmarks from a transporter node by right-clicking it with a blank floppy disk. It will become blue and right-clicking
 any transporter node will add bookmarks stored on this floppy to the transporter.  
 
+* I recommend using craftguide mod to view crafting recipies for items in this mod.
 #### License
 
 * Code is LGPL v3.
